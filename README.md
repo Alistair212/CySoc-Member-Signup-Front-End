@@ -1,1 +1,1 @@
-# CySoc-Member-Signup-Front-End
+npx tailwindcss build -i src/styles.css -o public/styles.css --watch
